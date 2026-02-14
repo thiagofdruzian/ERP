@@ -163,7 +163,4 @@ O fluxo principal de cotacao e formacao de preco ja esta funcional e pronto para
 - Testes ampliados (unitario + integracao + regressao).
 - Documentacao funcional e tecnica completa.
 
-## Backlog pronto para GitHub
 
-Para abrir issues rapidamente no repositorio, use:
-- `ISSUES_ROADMAP.md`
