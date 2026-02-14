@@ -86,7 +86,7 @@ Dependencia principal:
 No PowerShell:
 
 ```powershell
-cd C:\Users\Teste\Desktop\ERP
+cd C:\seucaminho
 python -m pip install -r requirements.txt
 python erp_precos.py
 ```
